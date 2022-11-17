@@ -1,4 +1,4 @@
-# PACMAC inspired game
+# PACMAN inspired game
 
 
 ![Image of Yaktocat](https://raw.githubusercontent.com/VisveshS/PacMan-OpenGL/master/20171133_Assign1/pm1.png)
